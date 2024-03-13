@@ -14,6 +14,7 @@
 		3CAD177E2BA2488100271AE6 /* LandmarksTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CAD177D2BA2488100271AE6 /* LandmarksTests.swift */; };
 		3CAD17882BA2488100271AE6 /* LandmarksUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CAD17872BA2488100271AE6 /* LandmarksUITests.swift */; };
 		3CAD178A2BA2488100271AE6 /* LandmarksUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CAD17892BA2488100271AE6 /* LandmarksUITestsLaunchTests.swift */; };
+		3CAD17972BA25C1400271AE6 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CAD17962BA25C1400271AE6 /* CircleImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		3CAD17832BA2488100271AE6 /* LandmarksUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LandmarksUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3CAD17872BA2488100271AE6 /* LandmarksUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarksUITests.swift; sourceTree = "<group>"; };
 		3CAD17892BA2488100271AE6 /* LandmarksUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarksUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		3CAD17962BA25C1400271AE6 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 		3CAD17602BA2488000271AE6 = {
 			isa = PBXGroup;
 			children = (
+				3CAD17962BA25C1400271AE6 /* CircleImage.swift */,
 				3CAD176B2BA2488000271AE6 /* Landmarks */,
 				3CAD177C2BA2488100271AE6 /* LandmarksTests */,
 				3CAD17862BA2488100271AE6 /* LandmarksUITests */,
@@ -259,6 +262,7 @@
 			files = (
 				3CAD176F2BA2488000271AE6 /* ContentView.swift in Sources */,
 				3CAD176D2BA2488000271AE6 /* LandmarksApp.swift in Sources */,
+				3CAD17972BA25C1400271AE6 /* CircleImage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
