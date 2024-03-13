@@ -1,9 +1,9 @@
-/*
-See the LICENSE.txt file for this sample’s licensing information.
-
-Abstract:
-The top-level definition of the Landmarks app.
-*/
+//
+//  LandmarksApp.swift
+//  Landmarks
+//
+//  Created by Noah Bardwell on 3/13/24.
+//
 
 import SwiftUI
 
